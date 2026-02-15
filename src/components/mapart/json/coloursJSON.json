@@ -2214,6 +2214,31 @@
                 "supportBlockMandatory": true,
                 "flammable": false,
                 "presetIndex": 7
+            },
+            "8": {
+                "displayName": "White Terracotta",
+                "validVersions": {
+                    "1.7.2": {
+                        "NBTName": "stained_hardened_clay",
+                        "NBTArgs": {
+                            "color": "white"
+                        }
+                    },
+                    "1.13.2": {
+                        "NBTName": "white_terracotta",
+                        "NBTArgs": {}
+                    },
+                    "1.14.4": "&1.13.2",
+                    "1.15.2": "&1.13.2",
+                    "1.16.5": "&1.13.2",
+                    "1.17.1": "&1.13.2",
+                    "1.18.2": "&1.13.2",
+                    "1.19": "&1.13.2",
+                    "1.20": "&1.13.2"
+                },
+                "supportBlockMandatory": false,
+                "flammable": false,
+                "presetIndex": 8
             }
         },
         "mapdatId": 8,
@@ -7094,137 +7119,5 @@
         },
         "mapdatId": 35,
         "colourName": "Nether"
-    },
-    "35": {
-        "tonesRGB": {
-            "dark": [
-                147,
-                124,
-                113
-            ],
-            "normal": [
-                180,
-                152,
-                138
-            ],
-            "light": [
-                209,
-                177,
-                161
-            ],
-            "unobtainable": [
-                110,
-                93,
-                85
-            ]
-        },
-        "blocks": {
-            "0": {
-                "displayName": "White Terracotta",
-                "validVersions": {
-                    "1.7.2": {
-                        "NBTName": "stained_hardened_clay",
-                        "NBTArgs": {
-                            "color": "white"
-                        }
-                    },
-                    "1.13.2": {
-                        "NBTName": "white_terracotta",
-                        "NBTArgs": {}
-                    },
-                    "1.14.4": "&1.13.2",
-                    "1.15.2": "&1.13.2",
-                    "1.16.5": "&1.13.2",
-                    "1.17.1": "&1.13.2",
-                    "1.18.2": "&1.13.2",
-                    "1.19": "&1.13.2",
-                    "1.20": "&1.13.2"
-                },
-                "supportBlockMandatory": false,
-                "flammable": false,
-                "presetIndex": 0
-            },
-            "1": {
-                "displayName": "Calcite",
-                "validVersions": {
-                    "1.17.1": {
-                        "NBTName": "calcite",
-                        "NBTArgs": {}
-                    },
-                    "1.18.2": "&1.17.1",
-                    "1.19": "&1.17.1",
-                    "1.20": "&1.17.1"
-                },
-                "supportBlockMandatory": false,
-                "flammable": false,
-                "presetIndex": 1
-            },
-            "2": {
-                "displayName": "Cherry Planks",
-                "validVersions": {
-                    "1.20": {
-                        "NBTName": "cherry_planks",
-                        "NBTArgs": {}
-                    }
-                },
-                "supportBlockMandatory": false,
-                "flammable": true,
-                "presetIndex": 2
-            },
-            "3": {
-                "displayName": "Cherry Slab",
-                "validVersions": {
-                    "1.20": {
-                        "NBTName": "cherry_slab",
-                        "NBTArgs": {}
-                    }
-                },
-                "supportBlockMandatory": true,
-                "flammable": true,
-                "presetIndex": 3
-            },
-            "4": {
-                "displayName": "Cherry Log (vertical)",
-                "validVersions": {
-                    "1.20": {
-                        "NBTName": "cherry_log",
-                        "NBTArgs": {
-                            "axis": "y"
-                        }
-                    }
-                },
-                "supportBlockMandatory": false,
-                "flammable": true,
-                "presetIndex": 4
-            },
-            "5": {
-                "displayName": "Stripped Cherry Log (vertical)",
-                "validVersions": {
-                    "1.20": {
-                        "NBTName": "stripped_cherry_log",
-                        "NBTArgs": {
-                            "axis": "y"
-                        }
-                    }
-                },
-                "supportBlockMandatory": false,
-                "flammable": true,
-                "presetIndex": 5
-            },
-            "6": {
-                "displayName": "Cherry Pressure Plate",
-                "validVersions": {
-                    "1.20": {
-                        "NBTName": "cherry_pressure_plate",
-                        "NBTArgs": {}
-                    }
-                },
-                "supportBlockMandatory": true,
-                "flammable": false,
-                "presetIndex": 6
-            }
-        },
-        "mapdatId": 36,
-        "colourName": "White Terracotta"
     }
 }
