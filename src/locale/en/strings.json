@@ -48,7 +48,8 @@
       "NONE": "None",
       "EVERYTHING": "Everything",
       "CARPETS": "Carpets",
-      "GREYSCALE": "Greyscale"
+      "GREYSCALE": "Greyscale",
+      "HSMP": "HSMP"
     },
     "UNSUPPORTED-PAST": "Unsupported past",
     "ADD-CUSTOM": {
