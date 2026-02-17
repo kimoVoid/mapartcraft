@@ -4416,7 +4416,7 @@
                     "1.7.2": {
                         "NBTName": "stained_hardened_clay",
                         "NBTArgs": {
-                            "color": "light_gray"
+                            "color": "silver"
                         }
                     },
                     "1.13.2": {
